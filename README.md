@@ -1,4 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# About Me
 My Name is LaLa.
-How are You?
+This is my first github project.
